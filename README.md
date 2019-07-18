@@ -1,3 +1,4 @@
+
 # Summer 2020 Internships
 Keep track of internships for Summer 2020 for undergraduates interested in tech, SWE, and related fields. Never too early to get started in your search! Thanks to [christine-hu](https://github.com/christine-hu/summer-2019-internships) who made a similar document for the 2019 season for formatting inspiration.
 
@@ -23,8 +24,8 @@ To contribute:
 |  [American Express](https://jobs.americanexpress.com/jobs/19003378?) | Phoenix, AZ, Ft. Lauderdale, FL, and New York, NY.| Present  |  Sophomores+ |
 |  [Groceristar](https://angel.co/company/groceristar/jobs) | Remote/Work From Home| Present  |  [UNPAID:](https://www.businessinsider.com/unpaid-internships-bad-for-students-bad-for-workers-bad-for-society-2012-5) Many positions available: Engineers, Q&A, Project manager, Personal Assistant, Growth Hacker. Seems to have strong mentorship and learning experience |
 |  [Goldman Sachs](https://goldmansachs.tal.net/vx/lang-en-GB/mobile-0/brand-2/user-1414453/candidate/so/pm/1/pl/1/opp/2-Summer-Analyst-Summer-Associate-Internship-programs/en-GB) | Several: Americas | Present  |  For technology roles: Select Engineering->General |
-|   |   |   |   |
-|   |   |   |   |
+| [Red Ventures](https://careers.redventures.com/positions.html?team=College)  | Several: Americas (most in Charlotte, NC)  | Present  | Opportunities for students and new grads |
+|  [Twitter University](https://careers.twitter.com/en/university.html) | Several: Americas  |  August  |   |
 |   |   |   |   |
 |   |   |   |   |
 |   |   |   |   |
